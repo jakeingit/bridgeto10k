@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Emis bridgeto10k</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="button1">1</string>
+	<string name="button2">2</string>
+	<string name="button3">3</string>
+	
+	<string name="button4">4</string>
+	<string name="button5">5</string>
+	<string name="button6">6</string>
+	
+	<string name="button7">7</string>
+	<string name="button8">8</string>
+	<string name="button9">9</string>
+	
+	<string name="button10">10</string>
+	<string name="button11">11</string>
+	<string name="button12">12</string>
+	
+	<string name="button13">13</string>
+	<string name="button14">14</string>
+	<string name="button15">15</string>
+	
+	<string name="button16">16</string>
+	<string name="button17">17</string>
+	<string name="button18">18</string>
+	
+	<string name="button19">19</string>
+	<string name="button20">20</string>
+	<string name="button21">21</string>
+	
+	<string name="button22">22</string>
+	<string name="button23">23</string>
+	<string name="button24">24</string>
+	
+	<string name="button25">25</string>
+	<string name="button26">26</string>
+	<string name="button27">27</string>
+	
+	<string name="feedback_header">About</string>
+	    <string name="feedback_descr">The self taught progammer is a 22 year old college student from Minnesota that thrives on creating useful content. As a user, you and the few, have a say in what this app evolves into. Send feedback of features that youd like to see in the app and they could become reality.</string>
+
+	<string name="feedback_description">Direct Feedback</string>
+	<string name="feedback_hint">Have any (read: useful) feedback for the developer?</string>
+	<string name="feedback_send">Send</string>
+	<string name="settings_button2">Help</string>
+	<string name="settings_button3">Cancel</string>
+	
+	<string name="returnButton">Return</string>
+	<string name="tutorial_descr">Each number on the grid represents one day. Each row is a week and each has three days. Run Monday, Wednesday, and Friday, then go to the next week. \n \n When you select a day, you will see what is in store. Upon pressing start, the program will wait ten seconds and then buzz for ten seconds to signify the start of running. Alternate walking and running after each incoming buzz. \n \n It ends with a ten second buzz.</string>
+	<string name="tutorial_header">Tutorial</string>
+	
+	<string name="startbuzzer">Start</string>
+	<string name="buzzer1">Make sure you do the warm-up AND the cooldown after each exercise. Press and start moving after the first buzz. Alternate when you feel the buzz.</string>
+	<string name="buzzer2"> Run it up. </string>
+	<string name="endbuzzer">Stop</string>
+	
+	<string name="textView1">Week 1</string>
+	<string name="textView2">Week 2</string>
+	<string name="textView3">Week 3</string>
+	<string name="textView4">Week 4</string>
+	<string name="textView5">Week 5</string>
+	<string name="textView6">Week 6</string>
+	<string name="textView7">Week 7</string>
+	<string name="textView8">Week 8</string>
+	<string name="textView9">Week 9</string>
+	<string name="onOff">STOPPED</string>
+	
+	<string name="warmuptext">Warm Up</string>
+	<string name="warmup">Warmup and Cooldown</string>
+	
+	
+</resources>

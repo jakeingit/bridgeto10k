@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
+            
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/feedback_header"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#33B5E5" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/feedback_descr"
+            android:textAppearance="?android:attr/textAppearance" />
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:text="@string/feedback_description"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#33B5E5" />
+
+    <EditText
+        android:id="@+id/settings_checkboxbody_description_hint"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:hint="@string/feedback_hint" />
+    
+    
+
+    
+    
+     <LinearLayout
+        android:id="@+id/laytbtns"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+         >
+        <Button
+            android:id="@+id/savebutton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:textColor="#33B5E5"
+            android:background="#303030"
+            android:text="@string/feedback_send"/>
+        
+            <Button
+             android:id="@+id/helpButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" 
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:text="@string/settings_button2" />
+            
+        <Button
+             android:id="@+id/cancelButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:text="@string/settings_button3" />
+    </LinearLayout>
+
+</LinearLayout>
